@@ -105,19 +105,19 @@ class Prueba extends Component {
 					<div className="bottom">
 						<button className="btn delete">
 							Delete
-							<FaTrashAlt size="33px" />
+							<FaTrashAlt size="30px" />
 						</button>
 						<button className="btn advice">
 							Advice
-							<RiLightbulbLine size="33px" />
+							<RiLightbulbLine size="30px" />
 						</button>
 						<button className="btn create">
-							<HiOutlinePlusCircle size="33px" />
+							<HiOutlinePlusCircle size="30px" />
 							Create
 						</button>
 						<button className="btn submit">
 							Submit
-							<IoIosArrowForward size="33px" />
+							<IoIosArrowForward size="30px" />
 						</button>
 					</div>
 					<div>
